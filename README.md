@@ -1,4 +1,4 @@
-# Columbia-Summer-Immersion-Program
+# Building a Machine Learning Model 
 In the summer of 2022, I got the chance to attend the Summer Immersion Program at Columbia University in the city of New York. We were assigned into groups of five for our capstone project. We were provided with a sample dataset containing information about loan applicants in a bank. My group decided that we would try and predict the ‘grade’ of an applicant given the other information about them (like the interest rates of their old loans, the CLI, number of times defaulted by the person, any criminal cases, the debt to income ratio among many others).
 
 As with any ML project, we started with the data cleaning and formatting followed by Exploratory Data Analysis (EDA). Since there were seven distinct grades in the dataset, we used Multi-class Classification Algorithms. We explored several different models:
